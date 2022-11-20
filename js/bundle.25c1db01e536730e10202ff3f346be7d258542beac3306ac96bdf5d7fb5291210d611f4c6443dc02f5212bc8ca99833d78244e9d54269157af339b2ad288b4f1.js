@@ -718,7 +718,7 @@ function loadActions() {
   headingNodes.forEach(function(node){
     link = createEl('a');
     icon = createEl('img');
-    icon.src = 'http://example.org/icons/link.svg';
+    icon.src = 'https://battlefield-portal-community.github.io/portal-docs/icons/link.svg';
     link.className = 'link icon';
     link.appendChild(icon);
     id = node.getAttribute('id');
@@ -737,7 +737,7 @@ function loadActions() {
     if(!elem(`.${yanked}`, parent)) {
       const icon = parent.getElementsByTagName('img')[0];
       const originalSrc = icon.src;
-      icon.src = 'http://example.org/icons/check.svg';
+      icon.src = 'https://battlefield-portal-community.github.io/portal-docs/icons/check.svg';
       parent.appendChild(copyText);
       setTimeout(function() {
         parent.removeChild(copyText)
