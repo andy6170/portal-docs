@@ -8,6 +8,8 @@
   </url><url>
     <loc>https://docs.bfportal.gg/guides/</loc>
   </url><url>
+    <loc>https://docs.bfportal.gg/blocks/</loc>
+  </url><url>
     <loc>https://docs.bfportal.gg/blocks/abort/</loc>
   </url><url>
     <loc>https://docs.bfportal.gg/blocks/abortif/</loc>
@@ -43,8 +45,6 @@
     <loc>https://docs.bfportal.gg/blocks/arrayslice/</loc>
   </url><url>
     <loc>https://docs.bfportal.gg/blocks/backwardvector/</loc>
-  </url><url>
-    <loc>https://docs.bfportal.gg/blocks/</loc>
   </url><url>
     <loc>https://docs.bfportal.gg/blocks/bool/</loc>
   </url><url>
