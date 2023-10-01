@@ -7,6 +7,49 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://docs.bfportal.gg/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Portal Browser Extension</title>
+      <link>https://docs.bfportal.gg/tools/browser-extension/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.bfportal.gg/tools/browser-extension/</guid>
+      <description>Portal Browser Extension Extension Plugins Portal Browser Extension The BF2042 Portal Extensions is a Browser Extension that adds additional functionality to the Battlefield Portal Rules Editor.
+It also allows users to create plugins in order to add even more functionality to the browser extension.
+Extension Plugins The community has created a lot of plugins for the Browser Extension, which enhance the usability and speed to work on Portal Experiences even more.</description>
+    </item>
+    
+    <item>
+      <title>What is Battlefield Portal</title>
+      <link>https://docs.bfportal.gg/introduction/what-is-bf-portal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.bfportal.gg/introduction/what-is-bf-portal/</guid>
+      <description>What is Battlefield Portal? EA&amp;rsquo;s Official Portal Documentation Terms and Synonyms What is Battlefield Portal? EA is officially referring Portal as a Game Mode of Battlefield 2042, but it&amp;rsquo;s actually a lot more than this.
+It&amp;rsquo;s a utility to create and host your own Battlefield servers and mod them with Low-Code. With Portal you have the possibility to play old eras of the Battlefield Games as well next to the current 2042 era.</description>
+    </item>
+    
+    <item>
+      <title>Coordinate Finder</title>
+      <link>https://docs.bfportal.gg/tools/coordinate-finder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.bfportal.gg/tools/coordinate-finder/</guid>
+      <description> Coordinate Finder Coordinate Finder </description>
+    </item>
+    
+    <item>
+      <title>Battlefield Portal Community</title>
+      <link>https://docs.bfportal.gg/introduction/bfportal-community/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.bfportal.gg/introduction/bfportal-community/</guid>
+      <description>The Battlefield Portal Community The Portal Experiences Library The Battlefield Portal Community The Battlefield Portal Community (also called bfportal.gg community) is a community mainly dedicated to the Portal feature of Battlefield 2042.
+Join this community by entering the according discord server:
+BFPortal.gg Discord Server
+There you will find a lot of helpful hands if you&amp;rsquo;re seeking help with using Battlefield Portal and the Rules Editor.
+It all started when EA was not offering an official solution to share your Experiences on an easily accessible platform.</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://docs.bfportal.gg/blocks/abort/docs/extra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -5096,15 +5139,6 @@ Inputs Vector (World Vector) Player Output Vector (Local Vector) </description>
       <guid>https://docs.bfportal.gg/blocks/xor/docs/official/</guid>
       <description>Returns True if the provided Bool inputs return different values.
 Inputs Bool Bool Output Bool </description>
-    </item>
-    
-    <item>
-      <title>Getting Started</title>
-      <link>https://docs.bfportal.gg/usage/getting-started/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs.bfportal.gg/usage/getting-started/</guid>
-      <description>This page tells you about how to get started with the Battlefield Portal game mode.</description>
     </item>
     
     <item>

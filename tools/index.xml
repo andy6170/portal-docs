@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on Portal Documentation</title>
+    <link>https://docs.bfportal.gg/tools/</link>
+    <description>Recent content in Tools on Portal Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://docs.bfportal.gg/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Portal Browser Extension</title>
+      <link>https://docs.bfportal.gg/tools/browser-extension/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.bfportal.gg/tools/browser-extension/</guid>
+      <description>Portal Browser Extension Extension Plugins Portal Browser Extension The BF2042 Portal Extensions is a Browser Extension that adds additional functionality to the Battlefield Portal Rules Editor.
+It also allows users to create plugins in order to add even more functionality to the browser extension.
+Extension Plugins The community has created a lot of plugins for the Browser Extension, which enhance the usability and speed to work on Portal Experiences even more.</description>
+    </item>
+    
+    <item>
+      <title>Coordinate Finder</title>
+      <link>https://docs.bfportal.gg/tools/coordinate-finder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.bfportal.gg/tools/coordinate-finder/</guid>
+      <description> Coordinate Finder Coordinate Finder </description>
+    </item>
+    
+  </channel>
+</rss>

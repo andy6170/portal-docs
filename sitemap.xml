@@ -2,13 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://docs.bfportal.gg/usage/</loc>
-  </url><url>
-    <loc>https://docs.bfportal.gg/tutorial/</loc>
+    <loc>https://docs.bfportal.gg/introduction/</loc>
   </url><url>
     <loc>https://docs.bfportal.gg/guide/</loc>
   </url><url>
+    <loc>https://docs.bfportal.gg/tools/</loc>
+  </url><url>
+    <loc>https://docs.bfportal.gg/tutorial/</loc>
+  </url><url>
     <loc>https://docs.bfportal.gg/blocks/</loc>
+  </url><url>
+    <loc>https://docs.bfportal.gg/tools/browser-extension/</loc>
+  </url><url>
+    <loc>https://docs.bfportal.gg/introduction/what-is-bf-portal/</loc>
+  </url><url>
+    <loc>https://docs.bfportal.gg/tools/coordinate-finder/</loc>
+  </url><url>
+    <loc>https://docs.bfportal.gg/introduction/bfportal-community/</loc>
+  </url><url>
+    <loc>https://docs.bfportal.gg/bookmarks/</loc>
   </url><url>
     <loc>https://docs.bfportal.gg/contributing/</loc>
   </url><url>
@@ -1861,8 +1873,6 @@
     <loc>https://docs.bfportal.gg/blocks/getsubroutineargument/</loc>
   </url><url>
     <loc>https://docs.bfportal.gg/blocks/getteamid/</loc>
-  </url><url>
-    <loc>https://docs.bfportal.gg/usage/getting-started/</loc>
   </url><url>
     <loc>https://docs.bfportal.gg/blocks/getvariable/</loc>
   </url><url>
