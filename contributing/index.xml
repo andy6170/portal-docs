@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contributing on Portal Documentation</title>
+    <link>https://docs.bfportal.gg/contributing/</link>
+    <description>Recent content in Contributing on Portal Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://docs.bfportal.gg/contributing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Contribute</title>
+      <link>https://docs.bfportal.gg/contributing/how/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.bfportal.gg/contributing/how/</guid>
+      <description>First off, thanks for taking the time to contribute! 🎉🎉
+This file contains a few guidelines on how to contribute to the community made portal docs hosted at docs.bfportal.gg
+These are not rules but just some suggestion, so feel free to propose any change in the project
+Todo (PRs welcome :D ) Add a section on how to contribute to the docs Add a section on how to contribute to the website Add a section on how to contribute to the portal_blocks_documentation module Todo (PRs welcome :D ) Architecture of the docs Contributing to the docs Hand written Docs Portal Blocks Documentation Architecture of the docs The project is split into two parts:</description>
+    </item>
+    
+  </channel>
+</rss>
