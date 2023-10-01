@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portal Documentation</title>
+    <link>https://docs.bfportal.gg/blocks/setplayersoldier/docs/</link>
+    <description>Recent content on Portal Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://docs.bfportal.gg/blocks/setplayersoldier/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://docs.bfportal.gg/blocks/setplayersoldier/docs/extra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.bfportal.gg/blocks/setplayersoldier/docs/extra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://docs.bfportal.gg/blocks/setplayersoldier/docs/official/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.bfportal.gg/blocks/setplayersoldier/docs/official/</guid>
+      <description>Sets a target Player soldier using a provided PlayerSoldiersItem. The soldier selected should be one that is available from that player team&amp;rsquo;s faction, otherwise, the soldier will not be set. (ex. if a team&amp;rsquo;s faction is Bad Company 2 US, that player may only select Bad Company 2 US soldiers).
+Inputs Player PlayerSoldiersItem </description>
+    </item>
+    
+  </channel>
+</rss>

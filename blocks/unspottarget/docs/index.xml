@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portal Documentation</title>
+    <link>https://docs.bfportal.gg/blocks/unspottarget/docs/</link>
+    <description>Recent content on Portal Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://docs.bfportal.gg/blocks/unspottarget/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://docs.bfportal.gg/blocks/unspottarget/docs/extra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.bfportal.gg/blocks/unspottarget/docs/extra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://docs.bfportal.gg/blocks/unspottarget/docs/official/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.bfportal.gg/blocks/unspottarget/docs/official/</guid>
+      <description>Unspots a target Player for all players.
+Inputs Player </description>
+    </item>
+    
+  </channel>
+</rss>

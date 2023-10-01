@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portal Documentation</title>
+    <link>https://docs.bfportal.gg/blocks/trackvariableatrate/docs/</link>
+    <description>Recent content on Portal Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://docs.bfportal.gg/blocks/trackvariableatrate/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://docs.bfportal.gg/blocks/trackvariableatrate/docs/extra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.bfportal.gg/blocks/trackvariableatrate/docs/extra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://docs.bfportal.gg/blocks/trackvariableatrate/docs/official/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.bfportal.gg/blocks/trackvariableatrate/docs/official/</guid>
+      <description>Gradually modifies the value of a Variable at a specified rate (value/second) until it reaches the provided limit.
+Note: If the limit is changed later, the Variable will continue to be updated from its previous value. To spot modifying the Variable, use StopTrackingVariable.
+Inputs Variable Number (Limit) Number (Rate) </description>
+    </item>
+    
+  </channel>
+</rss>

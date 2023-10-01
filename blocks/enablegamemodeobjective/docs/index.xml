@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portal Documentation</title>
+    <link>https://docs.bfportal.gg/blocks/enablegamemodeobjective/docs/</link>
+    <description>Recent content on Portal Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://docs.bfportal.gg/blocks/enablegamemodeobjective/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://docs.bfportal.gg/blocks/enablegamemodeobjective/docs/extra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.bfportal.gg/blocks/enablegamemodeobjective/docs/extra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://docs.bfportal.gg/blocks/enablegamemodeobjective/docs/official/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.bfportal.gg/blocks/enablegamemodeobjective/docs/official/</guid>
+      <description>Enables or disables the provided CapturePoint or MCOM.
+Note: MCOMs are only available on TDM, VTDM, and Custom Conquest layouts.
+Inputs CapturePoint | MCOM Bool </description>
+    </item>
+    
+  </channel>
+</rss>

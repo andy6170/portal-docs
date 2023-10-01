@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorials on Portal Documentation</title>
+    <link>https://docs.bfportal.gg/tutorial/</link>
+    <description>Recent content in Tutorials on Portal Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://docs.bfportal.gg/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Make a Custom Gun Game</title>
+      <link>https://docs.bfportal.gg/tutorial/gun-game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.bfportal.gg/tutorial/gun-game/</guid>
+      <description>Work in progress This tutorial will show you how to make a custom Gun Game using the Portal Mod Builder.</description>
+    </item>
+    
+  </channel>
+</rss>

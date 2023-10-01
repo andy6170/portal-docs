@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portal Documentation</title>
+    <link>https://docs.bfportal.gg/blocks/eventweapon/docs/</link>
+    <description>Recent content on Portal Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://docs.bfportal.gg/blocks/eventweapon/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://docs.bfportal.gg/blocks/eventweapon/docs/extra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.bfportal.gg/blocks/eventweapon/docs/extra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://docs.bfportal.gg/blocks/eventweapon/docs/official/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.bfportal.gg/blocks/eventweapon/docs/official/</guid>
+      <description>Returns the HardwareId of the weapon used to kill the victim from the OnPlayerDied or OnPlayerEarnedKill EVENT context.
+Output HardwareId </description>
+    </item>
+    
+  </channel>
+</rss>
